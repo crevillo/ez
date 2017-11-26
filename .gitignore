@@ -27,6 +27,7 @@
 /app/logs/
 /ezpublish_legacy
 /app/config/parameters.yml
+/app/config/parameters_dev.yml
 /app/bootstrap.php.cache
 /doc/docker/entrypoint/*/*.sql
 /web/index_treemenu.php
@@ -42,7 +43,6 @@ web/fonts/
 /web/var
 /web/.htaccess
 composer.phar
-composer.lock
 .buildpath
 .project
 .settings/
