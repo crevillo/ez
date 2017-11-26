@@ -28,6 +28,7 @@
 /ezpublish_legacy
 /app/config/parameters.yml
 /app/config/parameters_dev.yml
+/app/config/parameters_docker.yml
 /app/bootstrap.php.cache
 /doc/docker/entrypoint/*/*.sql
 /web/index_treemenu.php
